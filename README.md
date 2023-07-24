@@ -21,7 +21,7 @@ Python 3.x
 Clone the repository to your local machine.
 
 ```bash 
- git clone https://github.com/utkubayri/Scale-Payout.git
+ git clone https://github.com/utkubayri/Prop-Firm-Tool.git
 ```
 
 Run the script using Python:
